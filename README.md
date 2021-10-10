@@ -17,9 +17,9 @@ Create a shopping cart application using object oriented programming.
 The code uses:
 1. Use of **Collections Framework**
   
-  import java.util.*; 
+    import java.util.*; 
   
-  Contains the collections framework, some internationalization support classes, a service loader, properties, random number generation, string parsing and scanning classes, base64 encoding and decoding, a bit array, and several miscellaneous utility classes. This package also contains legacy collection classes and legacy date and time classes.
+    Contains the collections framework, some internationalization support classes, a service loader, properties, random number generation, string parsing and scanning classes, base64 encoding and decoding, a bit array, and several miscellaneous utility classes. This package also contains legacy collection classes and legacy date and time classes.
   
 2. **Switch statement**
   The Java switch statement executes one statement from multiple conditions. It is like if-else-if ladder statement.
