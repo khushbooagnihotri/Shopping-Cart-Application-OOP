@@ -3,7 +3,12 @@
 Assignment:
 Create a shopping cart application using object oriented programming.
 
+This program enables the user to 
+1. to add item
+2. 
+3. 
 
+## trftfgu
 
 ![image](https://user-images.githubusercontent.com/63361851/136696410-b91d370b-22f9-4723-b547-534c0f017717.png)
 
