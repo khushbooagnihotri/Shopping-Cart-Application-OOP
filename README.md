@@ -1,14 +1,22 @@
 # Shopping-Cart-Application-OOP
 
-Assignment:
+### Assignment:
 Create a shopping cart application using object oriented programming.
 
-This program enables the user to 
-1. to add item
-2. 
-3. 
+### This program enables the user to 
+1. Display  menu
+2. Add an item in list
+3. Edit item
+4. Search item
+5. Remove item
+6. Check total no. of items
+7. Print cart
+8. Exit
 
-## trftfgu
+## Key Functions
+
+
+## Images of output
 
 ![image](https://user-images.githubusercontent.com/63361851/136696410-b91d370b-22f9-4723-b547-534c0f017717.png)
 
