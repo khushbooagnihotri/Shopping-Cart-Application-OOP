@@ -1,5 +1,9 @@
 # Shopping-Cart-Application-OOP
 
+Assignment:
+Create a shopping cart application using object oriented programming.
+
+
 
 ![image](https://user-images.githubusercontent.com/63361851/136696410-b91d370b-22f9-4723-b547-534c0f017717.png)
 
