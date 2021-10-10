@@ -13,10 +13,52 @@ Create a shopping cart application using object oriented programming.
 7. Print cart
 8. Exit
 
-## Key Functions
+### Key points
+The code uses:
+1. Use of **Collections Framework**
+  
+  import java.util.*; 
+  Contains the collections framework, some internationalization support classes, a service loader, properties, random number generation, string parsing and scanning classes, base64 encoding and decoding, a bit array, and several miscellaneous utility classes. This package also contains legacy collection classes and legacy date and time classes.
+  
+2. **Switch statement**
+  The Java switch statement executes one statement from multiple conditions. It is like if-else-if ladder statement.
+  
+3.  **displayMenu**
+   static public void displayMenu(String[] items) {
+        for (int i = 0; i < items.length; i++) {
+            System.out.println(i+": "+ items[i]);
+        }
+    This displays the the whole menu when called upon.   
 
+4. **insert**
+    static public void insert() {
 
-## Images of output
+        Scanner in = new Scanner(System.in);
+
+        boolean y = true;
+        do {
+            System.out.println("Enter item to add in list");
+            int num = in.nextInt();
+            if (num < 0 || num>5)
+                System.out.println("not alowed");
+            else
+                l.add(num);
+            System.out.println("want to insert more?y/n");
+            String x = in.next();
+            char ch = x.charAt(0);
+            if (ch == 'n')
+                y = false;
+        }
+        while (y != false);
+    }
+    
+  The input should be an integer within the given range.
+  
+  
+  #### And more functions that can be read in the code.
+  
+
+### Images of output
 
 ![image](https://user-images.githubusercontent.com/63361851/136696410-b91d370b-22f9-4723-b547-534c0f017717.png)
 
